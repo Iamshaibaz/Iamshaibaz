@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I think**
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Iamshaibaz" alt="Iamshaibaz" /></a> </p>
 <p align="center">
-  <a href="https://github.com/QAInsights/github-readme-streak-stats">
+  <a href="https://github.com/Iamshaibaz/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshaibaz#version3"/>
   </a>
 </p>
