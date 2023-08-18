@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
  
    ![](https://komarev.com/ghpvc/?username=iamshaibaz&color=brightgreen)  
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Iamshaibaz" alt="Iamshaibaz" /></a> </p>
 - 🔭 I’m currently working on **Spring boot**
 
 - 🌱 I’m currently learning **Spring boot, CyberSecurity**
