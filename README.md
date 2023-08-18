@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
  
 ![](https://komarev.com/ghpvc/?username=iamshaibaz&color=brightgreen)  
-.  
+
 - 🔭 I’m currently working on **Spring boot**
 
 - 🌱 I’m currently learning **Spring boot, CyberSecurity**
