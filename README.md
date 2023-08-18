@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaibaz</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
  
-![](https://komarev.com/ghpvc/?username=iamshaibaz&color=brightgreen)  
+   ![](https://komarev.com/ghpvc/?username=iamshaibaz&color=brightgreen)  
 
 - 🔭 I’m currently working on **Spring boot**
 
