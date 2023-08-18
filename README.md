@@ -12,8 +12,9 @@
 - 💬 Ask me about **Java, Aws**
 
 - ⚡ Fun fact **I think**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iamshaibaz&show_icons=true&locale=en&layout=compact" alt="Iamshaibaz" /></p>
+
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Iamshaibaz" alt="Iamshaibaz" /></a> </p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iamshaibaz&show_icons=true&locale=en&layout=compact" alt="Iamshaibaz" /></p>
 <p align="center">
   <a href="https://github.com/Iamshaibaz/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshaibaz#version3"/>
