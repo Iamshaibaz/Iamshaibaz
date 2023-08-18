@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaibaz</h1>
-![](https://komarev.com/ghpvc/?username=Iamshaibaz)
+![](https://komarev.com/ghpvc/?username=iamshaibaz)
 <h3 align="center">A passionate Software Engineer from India</h3>
  
 - 🔭 I’m currently working on **Spring boot**
