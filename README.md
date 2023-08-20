@@ -28,7 +28,7 @@
         <img  src="https://profile-counter.glitch.me/Iamshaibaz/count.svg" alt="">
 <br><br></p>
 <p>
-  - 📫 󠀠󠀠 How to reach me <b>Reach out to me on twitter</b>
+  - 📫 󠀠󠀠 How to reach me <b>LinkedIn and Twitter</b>
 </p>
 
 <p align="center">
