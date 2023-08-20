@@ -20,8 +20,6 @@
      </p>
 
  
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Iamshaibaz&theme=dracula"/></p>
-
  <p align="center">
      Profile views
   </br>
