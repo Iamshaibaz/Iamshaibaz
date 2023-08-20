@@ -1,29 +1,39 @@
-<h1 align="center">Hi 👋, I'm Shaibaz</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
- 
-   ![](https://komarev.com/ghpvc/?username=iamshaibaz&color=brightgreen)  
-
-- 🔭 I’m currently working on **Spring boot**
-
-- 🌱 I’m currently learning **Spring boot, CyberSecurity**
-
-- 👯 I’m looking to collaborate on **Selenium and Rest Assured**
-
-- 💬 Ask me about **Java, Aws**
-
-- ⚡ Fun fact **I think**
-
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Iamshaibaz" alt="Iamshaibaz" /></a> </p>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iamshaibaz&show_icons=true&locale=en&layout=compact" alt="Iamshaibaz" /></p>
+<img align="right"  height="100" width="150" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="man-comp" border="0" />
+<h1 align="center">Hi there,<img src="https://img.icons8.com/color/48/000000/man-raising-hand-icon.png"/> I'm Shaibaz Mohammed</h1>
+<h3 align="center">I'm a passionate Software Engineer󠀠<br>
+<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-technology-literary-genres-becris-flat-becris.png" height="50" width="50"/> 󠀠󠀠3+ years of professional experience in Software development, well-versed in Software Development Lifecycle 
+  <br>
+  <br>
+<!--   Open for new opportunities -->
+</h3>
 <p align="center">
-  <a href="https://github.com/Iamshaibaz/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshaibaz#version3"/>
-  </a>
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shaibaziam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaibaziam" height="30" width="40" /></a>
+<a href="https://github.com/Iamshaibaz">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iamshaibaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> 
+ <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iamshaibaz&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+ <img height="220em" src="http://github-readme-streak-stats.herokuapp.com?user=Iamshaibaz&theme=algolia&hide_border=true"/> 
+</p>
+ <br>
+     </p>
+
+ 
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Iamshaibaz&theme=dracula"/></p>
+
+ <p align="center">
+     Profile views
+  </br>
+        <img  src="https://profile-counter.glitch.me/Iamshaibaz/count.svg" alt="">
+<br><br></p>
+<p>
+  - 📫 󠀠󠀠 How to reach me <b>Reach out to me on twitter</b>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/iamshaibaz/" target="blank"><img align="center" src="https://img.shields.io/badge/-Shaibaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamshaibaz/" alt="Iam shaibaz" /></a>
+<a href="https://twitter.com/ShaibazIam" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="" height="30" width="30" /></a>
+
+
+</p>
