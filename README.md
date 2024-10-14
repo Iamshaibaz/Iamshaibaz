@@ -81,6 +81,8 @@
 
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white)
 ![Log4j](https://img.shields.io/badge/Log4j-FF3621?style=flat&logo=apache&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+
 
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
