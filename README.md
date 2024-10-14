@@ -127,6 +127,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
+![Google Chat](https://img.shields.io/badge/Google%20Chat-00796B?style=flat&logo=googlechat&logoColor=white)
 
 
 
