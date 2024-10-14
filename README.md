@@ -76,6 +76,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI-CD-3776AB?style=flat&logo=gitlab&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-00A2E5?style=flat&logo=rancher&logoColor=white)
+
 
 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
