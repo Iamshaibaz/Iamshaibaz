@@ -44,6 +44,8 @@
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat&logo=robotframework&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-32C3C0?style=flat&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9DAB?style=flat&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2C76D2?style=flat&logo=playwright&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate-6DB33F?style=flat&logo=karate&logoColor=white)
 
 
 ![AWS CodePipeline](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
@@ -84,8 +86,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 
 
-![Playwright](https://img.shields.io/badge/Playwright-2C76D2?style=flat&logo=playwright&logoColor=white)
-![Karate](https://img.shields.io/badge/Karate-6DB33F?style=flat&logo=karate&logoColor=white)
+
 
 
 
