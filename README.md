@@ -104,6 +104,14 @@
 ![Extent Report](https://img.shields.io/badge/Extent%20Reports-0077C9?style=flat&logo=extent&logoColor=white)
 ![Allure Report](https://img.shields.io/badge/Allure-3A8EBA?style=flat&logo=allure&logoColor=white)
 
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-66595C?style=flat&logo=atom&logoColor=white)
+
+
+
+
 
 
 
