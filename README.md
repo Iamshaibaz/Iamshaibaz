@@ -55,6 +55,8 @@
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-6C6C6C?style=flat&logo=charles&logoColor=white)
 ![Fiddler](https://img.shields.io/badge/Fiddler-FF6F00?style=flat&logo=fiddler&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-1B7F3E?style=flat&logo=soapui&logoColor=white)
+
 
 
 
