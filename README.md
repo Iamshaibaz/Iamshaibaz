@@ -98,6 +98,7 @@
 
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr-8B9B1D?style=flat&logo=zephyr&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-4B8F8B?style=flat&logo=testrail&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![HTML Report](https://img.shields.io/badge/HTML%20Report-E34F26?style=flat&logo=html5&logoColor=white)
