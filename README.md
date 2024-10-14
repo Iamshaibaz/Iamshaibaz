@@ -77,12 +77,14 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI-CD-3776AB?style=flat&logo=gitlab&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-00A2E5?style=flat&logo=rancher&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 
 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-23C100?style=flat&logo=gradle&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -90,6 +92,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![QR Migrator](https://img.shields.io/badge/QR%20Migrator-000000?style=flat&logo=qr-code&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 
 
@@ -106,6 +109,7 @@
 ![HTML Report](https://img.shields.io/badge/HTML%20Report-E34F26?style=flat&logo=html5&logoColor=white)
 ![Extent Report](https://img.shields.io/badge/Extent%20Reports-0077C9?style=flat&logo=extent&logoColor=white)
 ![Allure Report](https://img.shields.io/badge/Allure-3A8EBA?style=flat&logo=allure&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6B30?style=flat&logo=newman&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
