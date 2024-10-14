@@ -48,6 +48,7 @@
 ![Vitest](https://img.shields.io/badge/Vitest-6E9DAB?style=flat&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2C76D2?style=flat&logo=playwright&logoColor=white)
 ![Karate](https://img.shields.io/badge/Karate-6DB33F?style=flat&logo=karate&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
