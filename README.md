@@ -87,7 +87,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Extent Reports](https://img.shields.io/badge/Extent%20Reports-0077C9?style=flat&logo=extent&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure-3A8EBA?style=flat&logo=allure&logoColor=white)
+![Allure Reports](https://img.shields.io/badge/Allure-3A8EBA?style=flat&logo=allure&logoColor=white)
 
 
 
