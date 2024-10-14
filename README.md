@@ -36,10 +36,14 @@
 
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-00B300?style=flat&logo=cucumber&logoColor=white)
+![BDD](https://img.shields.io/badge/BDD-FF9800?style=flat&logo=behavioral&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat&logo=testng&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-41BDF5?style=flat&logo=appium&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat&logo=robotframework&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-32C3C0?style=flat&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9DAB?style=flat&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2C76D2?style=flat&logo=playwright&logoColor=white)
@@ -63,6 +67,14 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Harness](https://img.shields.io/badge/Harness-0A3D62?style=flat&logo=harness&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+
 
 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
@@ -83,6 +95,7 @@
 
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-4B8F8B?style=flat&logo=testrail&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Extent Reports](https://img.shields.io/badge/Extent%20Reports-0077C9?style=flat&logo=extent&logoColor=white)
