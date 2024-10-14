@@ -62,6 +62,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0078D4?style=flat&logo=azurefunctions&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-0C4B5B?style=flat&logo=servicenow&logoColor=white)
 
 
@@ -112,13 +113,20 @@
 ![Extent Report](https://img.shields.io/badge/Extent%20Reports-0077C9?style=flat&logo=extent&logoColor=white)
 ![Allure Report](https://img.shields.io/badge/Allure-3A8EBA?style=flat&logo=allure&logoColor=white)
 ![Newman](https://img.shields.io/badge/Newman-FF6B30?style=flat&logo=newman&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger%20UI-85EA2D?style=flat&logo=swagger&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=flat&logo=atom&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59E?style=flat&logo=notepad-plus-plus&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
+![Amazon Chime](https://img.shields.io/badge/Amazon%20Chime-00A2E5?style=flat&logo=amazonchime&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 
 
 
