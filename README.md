@@ -36,16 +36,13 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub-2088FF?style=flat&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/GitLab-3776AB?style=flat&logo=gitlab&logoColor=white" alt="GitLab" />
-    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-    
+    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket" />    
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" alt="Neo4j" />
-
     <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" alt="Maven" />
     <img src="https://img.shields.io/badge/Gradle-23C100?style=flat&logo=gradle&logoColor=white" alt="Gradle" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-
     <img src="https://img.shields.io/badge/Jest-32C3C0?style=flat&logo=jest&logoColor=white" alt="Jest" />
     <img src="https://img.shields.io/badge/Vitest-6E9DAB?style=flat&logo=vitest&logoColor=white" alt="Vitest" />
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
@@ -56,7 +53,6 @@
     <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit" />
     <img src="https://img.shields.io/badge/REST%20API%20Testing-02569B?style=flat&logo=api&logoColor=white" alt="REST API Testing" />
     <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" alt="Cucumber" />
-
     <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white" alt="Dynatrace" />
     <img src="https://img.shields.io/badge/Log4j-FF3621?style=flat&logo=apache&logoColor=white" alt="Log4j" />
     <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
