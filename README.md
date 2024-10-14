@@ -36,6 +36,7 @@
 
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-2E7D32?style=flat&logo=restassured&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-00B300?style=flat&logo=cucumber&logoColor=white)
 ![BDD](https://img.shields.io/badge/BDD-FF9800?style=flat&logo=behavioral&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
@@ -56,6 +57,8 @@
 ![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-6C6C6C?style=flat&logo=charles&logoColor=white)
 ![Fiddler](https://img.shields.io/badge/Fiddler-FF6F00?style=flat&logo=fiddler&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/SoapUI-1B7F3E?style=flat&logo=soapui&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF4F00?style=flat&logo=burpsuite&logoColor=white)
+
 
 
 
@@ -64,10 +67,13 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=microsoft-azure&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0078D4?style=flat&logo=azurefunctions&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-0C4B5B?style=flat&logo=servicenow&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF4F00?style=flat&logo=browserstack&logoColor=white)
+![Selenium Grid](https://img.shields.io/badge/Selenium%20Grid-43B02A?style=flat&logo=selenium&logoColor=white)
 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4EAA25?style=flat&logo=sonarqube&logoColor=white)
 ![Harness](https://img.shields.io/badge/Harness-0A3D62?style=flat&logo=harness&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -114,6 +120,7 @@
 ![Allure Report](https://img.shields.io/badge/Allure-3A8EBA?style=flat&logo=allure&logoColor=white)
 ![Newman](https://img.shields.io/badge/Newman-FF6B30?style=flat&logo=newman&logoColor=white)
 ![Swagger UI](https://img.shields.io/badge/Swagger%20UI-85EA2D?style=flat&logo=swagger&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
