@@ -53,6 +53,7 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-6C6C6C?style=flat&logo=charles&logoColor=white)
 
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
