@@ -59,6 +59,8 @@
 ![SoapUI](https://img.shields.io/badge/SoapUI-1B7F3E?style=flat&logo=soapui&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF4F00?style=flat&logo=burpsuite&logoColor=white)
 ![AutoIt](https://img.shields.io/badge/AutoIt-1C3552?style=flat&logo=autoit&logoColor=white)
+![WireMock](https://img.shields.io/badge/WireMock-8B0000?style=flat&logo=wiremock&logoColor=white)
+
 
 
 
