@@ -113,6 +113,7 @@
 
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white)
 ![Log4j](https://img.shields.io/badge/Log4j-FF3621?style=flat&logo=apache&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 
 
@@ -141,6 +142,13 @@
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 ![Google Chat](https://img.shields.io/badge/Google%20Chat-00796B?style=flat&logo=googlechat&logoColor=white)
+
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Rovo](https://img.shields.io/badge/Atlassian%20Rovo-0052CC?style=flat&logo=atlassian&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
 
 
 
