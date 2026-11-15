@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <defs>
+    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#hg)" d="M0,0 H1200 V150 C1000,200 800,110 600,150 C400,190 200,110 0,150 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,0 H1200 V150 C1000,200 800,110 600,150 C400,190 200,110 0,150 Z;M0,0 H1200 V160 C1000,120 800,190 600,145 C400,110 200,190 0,160 Z;M0,0 H1200 V150 C1000,200 800,110 600,150 C400,190 200,110 0,150 Z"/>
+  </path>
+  <text x="600" y="62" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff">Shaibaz Mohammed</text>
+  <text x="600" y="96" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="18" fill="#cfe8ff">Senior Software Engineer &#8226; Test Automation &#38; Quality Engineering</text>
+  <g>
+    <rect x="495" y="110" width="210" height="30" rx="15" fill="#2ea6ff" fill-opacity="0.15" stroke="#2ea6ff" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="1;0.35;1" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="600" y="130" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">&#127760; View my portfolio &#8599;</text>
+  </g>
+</svg>
