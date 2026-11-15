@@ -12,5 +12,5 @@
       values="M0,0 H1200 V150 C1000,200 800,110 600,150 C400,190 200,110 0,150 Z;M0,0 H1200 V160 C1000,120 800,190 600,145 C400,110 200,190 0,160 Z;M0,0 H1200 V150 C1000,200 800,110 600,150 C400,190 200,110 0,150 Z"/>
   </path>
   <text x="600" y="78" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff">Shaibaz Mohammed</text>
-  <text x="600" y="116" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="18" fill="#cfe8ff">Software Engineer &#8226; Test Automation &#38; Quality Engineering</text>
+  <text x="600" y="116" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="18" fill="#cfe8ff">Senior Software Engineer &#8226; Test Automation &#38; Quality Engineering</text>
 </svg>
