@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-- 💼 **Software Engineer** with **7+ years** of professional experience across the full Software Development Lifecycle
+- 💼 **Senior Software Engineer** with **7+ years** of professional experience across the full Software Development Lifecycle
 - 🧪 Specialised in **test automation frameworks** for Web, API, Mobile and Performance testing
 - ⚙️ Integrating quality into **CI/CD pipelines** on AWS, Azure and containerised (Docker / Kubernetes) environments
 - 🤖 Using **AI-assisted development** (Claude, Claude Code, Copilot, Rovo) to ship faster and smarter
