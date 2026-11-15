@@ -1,13 +1,14 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="./assets/header.svg?v=2" width="100%" alt="Shaibaz Mohammed — Senior Software Engineer"/>
+<a href="https://iamshaibaz.github.io/"><img src="./assets/header.svg?v=2" width="100%" alt="Shaibaz Mohammed — Senior Software Engineer"/></a>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA6FF&center=true&vCenter=true&width=600&lines=7%2B+years+in+the+software+industry;Test+automation+%7C+API+%7C+UI+%7C+Mobile;CI%2FCD%2C+Cloud+%26+DevOps;Building+quality+into+every+release" alt="Typing SVG" />
 </a>
 
 <p>
+  <a href="https://iamshaibaz.github.io/"><img src="https://img.shields.io/badge/Portfolio-iamshaibaz.github.io-2EA6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/iamshaibaz/"><img src="https://img.shields.io/badge/LinkedIn-iamshaibaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/ShaibazIam"><img src="https://img.shields.io/badge/X-@ShaibazIam-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
   <a href="https://github.com/Iamshaibaz"><img src="https://img.shields.io/badge/GitHub-Iamshaibaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -25,6 +26,7 @@
 - 🧪 Specialised in **test automation frameworks** for Web, API, Mobile and Performance testing
 - ⚙️ Integrating quality into **CI/CD pipelines** on AWS, Azure and containerised (Docker / Kubernetes) environments
 - 🤖 Using **AI-assisted development** (Claude, Claude Code, Copilot, Rovo) to ship faster and smarter
+- 🌐 Check out my portfolio: **[iamshaibaz.github.io](https://iamshaibaz.github.io/)**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/iamshaibaz/)** or **[X / Twitter](https://twitter.com/ShaibazIam)**
 <!-- - 🔭 Currently working on: ...  -->
 <!-- - 🌱 Currently learning: ...    -->
@@ -217,6 +219,7 @@
 
 ### 🤝 Let's Connect
 
+<a href="https://iamshaibaz.github.io/"><img src="https://img.shields.io/badge/Portfolio-2EA6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/iamshaibaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/ShaibazIam"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
