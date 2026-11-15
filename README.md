@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Shaibaz Mohammed — Senior Software Engineer"/>
+<img src="./assets/header.svg?v=2" width="100%" alt="Shaibaz Mohammed — Senior Software Engineer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA6FF&center=true&vCenter=true&width=600&lines=7%2B+years+in+the+software+industry;Test+automation+%7C+API+%7C+UI+%7C+Mobile;CI%2FCD%2C+Cloud+%26+DevOps;Building+quality+into+every+release" alt="Typing SVG" />
